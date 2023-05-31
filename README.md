@@ -1,6 +1,46 @@
-# computer vision papers
+# Computer Vision Papers
 
-In this repository,
-we are going to implement some of the base algorithms from scratch in Python.
+This repository contains the implementation of several deep learning papers in the field of computer vision using Pytorch and Tensorflow.
 
-Mostly, These algorithms, are used for object detection.
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/mralamdari/Computer-Vision-Papers.git
+```
+
+2. Install the required packages listed in `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Implemented Papers
+
+The following papers have been implemented in this repository:
+
+- [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+- [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
+- [Mask R-CNN](https://arxiv.org/abs/1703.06870)
+- [YOLOv3: An Incremental Improvement](https://arxiv.org/abs/1804.02767)
+- [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
+- [CycleGAN: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
+- [Spatial Transformer Networks](https://arxiv.org/abs/1506.02025)
+- [Adaptive Instance Normalization](https://arxiv.org/abs/1703.068## Usage
+
+Each paper implementation is contained within its own directory. To run the code for a specific paper, navigate to the corresponding directory and run the main script. For example, to run the implementation of the Deep Residual Learning paper, navigate to the `resnet` directory and run:
+
+```bash
+python main.py
+```
+
+Note that some implementations may require additional setup or data preprocessing steps. Please refer to the README file in each directory for more information.
+
+## Contributors
+
+This repository is maintained by [mralamdari](https://github.com/mralamdari). Contributions are welcome and encouraged. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## License
+
+This repository is licensed under the MIT License. See the `LICENSE` file for more information.
