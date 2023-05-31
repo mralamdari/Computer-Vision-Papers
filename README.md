@@ -26,7 +26,7 @@ The following papers have been implemented in this repository:
 - [YOLOv3: An Incremental Improvement](https://arxiv.org/abs/1804.02767)
 <!-- - [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) -->
 <!-- - [CycleGAN: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593) -->
-- [Spatial Transformer Networks](https://arxiv.org/abs/1506.02025)
+<!-- - [Spatial Transformer Networks](https://arxiv.org/abs/1506.02025) -->
 - [Adaptive Instance Normalization](https://arxiv.org/abs/1703.068## Usage
 
 Each paper implementation is contained within its own directory. To run the code for a specific paper, navigate to the corresponding directory and run the main script. For example, to run the implementation of the Deep Residual Learning paper, navigate to the `resnet` directory and run:
