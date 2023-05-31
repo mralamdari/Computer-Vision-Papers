@@ -25,7 +25,7 @@ The following papers have been implemented in this repository:
 - [Mask R-CNN](https://arxiv.org/abs/1703.06870)
 - [YOLOv3: An Incremental Improvement](https://arxiv.org/abs/1804.02767)
 <!-- - [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) -->
-- [CycleGAN: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
+<!-- - [CycleGAN: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593) -->
 - [Spatial Transformer Networks](https://arxiv.org/abs/1506.02025)
 - [Adaptive Instance Normalization](https://arxiv.org/abs/1703.068## Usage
 
