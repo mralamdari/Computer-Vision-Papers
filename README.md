@@ -1,15 +1,6 @@
 # Computer Vision Papers
 
-This repository contains the implementation of several deep learning papers in the field of computer vision using Pytorch and Tensorflow.
-
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/mralamdari/Computer-Vision-Papers.git
-```
-
+This repository contains the implementation of several deep-learning papers in the field of computer vision using Pytorch and TensorFlow.
 
 ## Implemented Papers
 
