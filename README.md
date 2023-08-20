@@ -15,11 +15,7 @@ The following papers have been implemented in this repository:
 <!-- - [Spatial Transformer Networks](https://arxiv.org/abs/1506.02025) -->
 - [Adaptive Instance Normalization](https://arxiv.org/abs/1703.068## Usage
 
-Each paper implementation is contained within its own directory. To run the code for a specific paper, navigate to the corresponding directory and run the main script. For example, to run the implementation of the Deep Residual Learning paper, navigate to the `resnet` directory and run:
-
-```bash
-python main.py
-```
+Each paper implementation is contained within its own directory. To run the code for a specific paper, navigate to the corresponding directory and run the .ipynb script.
 
 Note that some implementations may require additional setup or data preprocessing steps. Please refer to the README file in each directory for more information.
 
