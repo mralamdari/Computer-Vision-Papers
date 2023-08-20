@@ -10,11 +10,6 @@ This repository contains the implementation of several deep learning papers in t
 git clone https://github.com/mralamdari/Computer-Vision-Papers.git
 ```
 
-2. Install the required packages listed in `requirements.txt`:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Implemented Papers
 
